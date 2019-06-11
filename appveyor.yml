@@ -63,5 +63,3 @@ environment:
   - R_VERSION: 3.4.1
     R_ARCH: x64
 
-matrix:
-  fast_finish: true
